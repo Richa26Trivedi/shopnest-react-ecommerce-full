@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "name": "Noise Cancelling Headphones",
+    "category": "Electronics",
+    "price": 2999,
+    "rating": 4.5,
+    "image": "/images/headphones.jpg",
+    "description": "Immersive sound experience with active noise cancellation."
+  },
+  {
+    "id": "2",
+    "name": "Smart Fitness Watch",
+    "category": "Wearables",
+    "price": 1999,
+    "rating": 4.2,
+    "image": "/images/watch.jpg",
+    "description": "Track your workouts, heart rate, and more."
+  },
+  {
+    "id": "3",
+    "name": "Bluetooth Speaker",
+    "category": "Audio",
+    "price": 1299,
+    "rating": 4.1,
+    "image": "/images/speaker.jpg",
+    "description": "Portable, powerful sound with long battery life."
+  }
+]
